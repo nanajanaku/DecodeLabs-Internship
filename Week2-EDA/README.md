@@ -7,7 +7,8 @@
 This week I performed a full Exploratory Data Analysis 
 on the cleaned e-commerce dataset of 1,200 orders 
 spanning January 2023 to June 2025. The goal was to 
-understand patterns, trends and distributions in the data.
+understand patterns, trends and distributions in the data
+using Microsoft Excel.
 
 ---
 
@@ -20,13 +21,13 @@ trends and distributions.
 ## ✅ Key Requirements Completed
 - [x] Calculated basic statistics (mean, median, count)
 - [x] Identified trends and outliers
+- [x] Built PivotTables and charts in Excel
 - [x] Summarized key observations
 
 ---
 
 ## 🛠️ Tools Used
 - Microsoft Excel
-- Power BI
 
 ---
 
@@ -70,7 +71,7 @@ trends and distributions.
 ---
 
 ## 🔍 Outlier Detection
-Using the IQR method:
+Using the IQR method in Excel:
 - **Upper boundary:** $3,330
 - **Lower boundary:** -$1,342
 - **Outliers detected:** 8 orders
@@ -87,8 +88,8 @@ Using the IQR method:
 
 ---
 
-## 📸 Dashboard Preview
-![Dashboard](Dashboard_Screenshot.png)
+## 📸 Excel Analysis Preview
+![Analysis](EDA_Screenshot.png)
 
 ---
 
@@ -96,11 +97,11 @@ Using the IQR method:
 | File | Description |
 |---|---|
 | See Week1-Data-Cleaning folder | Full Excel workbook |
-| Dashboard_Screenshot.png | Power BI dashboard preview |
+| EDA_Screenshot.png | Excel analysis screenshot |
 | README.md | Project documentation |
 
 ---
 
 ## 📬 Connect with Me
-- LinkedIn:https://www.linkedin.com/in/nana-gold-56b63b329/ 
+- LinkedIn: [Add your LinkedIn link]
 - GitHub: github.com/nanajanaku
