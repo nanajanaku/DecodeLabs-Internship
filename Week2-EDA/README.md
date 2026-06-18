@@ -103,5 +103,5 @@ Using the IQR method in Excel:
 ---
 
 ## 📬 Connect with Me
-- LinkedIn: [Add your LinkedIn link]
+- LinkedIn: https://www.linkedin.com/in/nana-gold-56b63b329/
 - GitHub: github.com/nanajanaku
