@@ -88,8 +88,19 @@ Using the IQR method in Excel:
 
 ---
 
-## 📸 Excel Analysis Preview
-![Analysis](EDA_Screenshot.png)
+## 📸 Analysis Screenshots
+
+### Descriptive Statistics
+![Stats](descriptive%20statistics.png)
+
+### PivotTable Charts 1 & 2
+![Charts 1&2](pivot%20table-chart%201%262.png)
+
+### PivotTable Charts 3 & 4
+![Charts 3&4](pivot%20table-chat%203%264.png)
+
+### PivotTable Charts & Key Observations
+![Key Observations](pivot%20table%20-chart%20%26key%20observation.png)
 
 ---
 
