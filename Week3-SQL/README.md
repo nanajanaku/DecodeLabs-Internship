@@ -130,7 +130,21 @@ GROUP BY
 ---
 
 ## 📸 SQL Screenshots
-![Query Results](SQL_Screenshots.png)
+
+### Query 1 - SELECT & DISTINCT
+![Select](SQL_Query1_Select.png)
+
+### Query 2 - Aggregations
+![Aggregations](SQL_Query2_Aggregations.png)
+
+### Query 3 - WHERE Filters
+![Where](SQL_Query3_Where.png)
+
+### Query 4 - ORDER BY & GROUP BY
+![OrderBy GroupBy](Sql_Query4_Orderby%20%26Groupby.png)
+
+### Query 5 - Outlier Detection
+![Outliers](SQL_Query5_Outliers.png)
 
 ---
 
